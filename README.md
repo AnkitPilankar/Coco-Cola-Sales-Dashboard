@@ -1,5 +1,6 @@
 # Coco-Cola-Sales-Dashboard
 
+![GRRGR](https://github.com/user-attachments/assets/46a77b44-1d62-465a-adcf-8c4d112b642a)
 
 
 
