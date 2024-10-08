@@ -8,15 +8,22 @@ For a Coca-Cola Sales Dashboard project, the dataset would typically involve sal
 
 Sales Data:
 Retailer ID: Unique identifier for each sale.
+
 Date: The specific date of the sale (daily, weekly, or monthly).
+
 Beverage Brand: The Coca-Cola products being sold (e.g., Coca-Cola Classic, Diet Coke, Coca-Cola Zero).
+
 Units Sold: Number of units sold for each product.
+
 Sales Amount: Total revenue from the sale of Coca-Cola products.
+
 Cost Price: The cost incurred by Coca-Cola for producing the product.
+
 Selling Price: Price at which the product was sold to the customer.
+
 Profit Margin: Profit made from each sale.
+
 Retailer Name : Retailer who selling a Beverage
-Opearating Margin
 
 Objectives
 
@@ -29,12 +36,26 @@ Product Line Analysis: Which individual product lines contribute the most to Coc
 Kpi Inclde:
 
 TOTAL SALES($)
+
 TOTAL UNITS SOLD($)
+
 TOTAL NUMBER OF STATE WHERE PRODUCT IS SELL
+
 AVERAGE PRICE OF PRODUCT($)
+
 TOTAL OPERATING PROFIT($)
+
 AVERAGE OPERATING MARGIN(%)
 
+SLICER
+
+REGION
+
+RETAILER
+
+BEVERAGE BRAND
+
+STATE
 
 
 
